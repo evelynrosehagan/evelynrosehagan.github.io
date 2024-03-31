@@ -30,4 +30,11 @@ body{
 .link-class
 {
     display: block;
+    min-height: 10px;
+    margin: 20px;
+    padding: 10px;
+    color: #BC9EC1;
+    background-color: #A01A7D;
+    text-align: center;
+    font-size: 24px;
 }
