@@ -27,3 +27,7 @@ body{
     color: #C7EDE4;
     display: inline;
 }
+.link-class
+{
+    display: block;
+}
