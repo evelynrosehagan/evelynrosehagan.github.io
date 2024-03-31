@@ -1,0 +1,10 @@
+body{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right:10%;
+    background-color: black;
+}
+
+.default-text{
+    color: purple;
+}
