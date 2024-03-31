@@ -14,3 +14,16 @@ body{
     background-color: #C7EDE4;
     margin: 30px;
 }
+.bs-linebreak-small{
+    height:3px;
+    margin:10px;
+    background-color: #A01A7D;
+}
+.spaced{
+    padding-top:10px;
+}
+
+.purple{
+    color: #C7EDE4;
+    display: inline;
+}
